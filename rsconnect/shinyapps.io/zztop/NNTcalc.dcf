@@ -1,0 +1,12 @@
+name: NNTcalc
+title: NNTcalc
+username:
+account: zztop
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3663838
+bundleId: 4244217
+url: https://zztop.shinyapps.io/NNTcalc/
+when: 1613725068.25625
+asMultiple: FALSE
+asStatic: FALSE
